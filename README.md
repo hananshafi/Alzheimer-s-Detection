@@ -13,6 +13,7 @@ The dataset consists of a total of 3272 sample sentences of normal and alzheimer
 Out of these figures, 1676 are from class 0 and 1596 are from class 1.
 (Here 0 signifies normal patient and 1 signifies alzheimer's patient)
 The data distribution is given as :
+
 ![data](https://github.com/hananshafi/Alzheimer-s-Detection/blob/master/assets/label_dist.png)
 
 # Methodology          
